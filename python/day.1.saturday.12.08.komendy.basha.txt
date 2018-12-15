@@ -1,0 +1,234 @@
+    1  sudo -s
+    2  cd /media/dev/VBox_GAs_5.2.18/
+    3  ls
+    4  ./VBoxLinuxAdditions.run 
+    5  apt-get install build-essential perl make git gcc 
+    6  ./VBoxLinuxAdditions.run 
+    7  reboot
+    8  uname -a
+    9  cd Downloads/
+   10  ls
+   11  ls -la
+   12  watch "ls -la
+   13  watch "ls -la"
+   14  chmod +x Anaconda3-5.2.0-Linux-x86.sh 
+   15  ./Anaconda3-5.2.0-Linux-x86.sh 
+   16  sudo -
+   17  ls
+   18  mc
+   19  sudo apt-get update
+   20  sudo -
+   21  sudo apt-get update
+   22  sudo apt-get upgrade
+   23  sudo reboot
+   24  sudo apt-cache clean
+   25  sudo apt-cache clear
+   26  sudo apt-get clean
+   27  sudo apt autoremove --purge
+   28  sudo apt-get autoclean
+   29  sudo synaptic
+   30  sudo apt-get dist-upgrade 
+   31  sudo reboot
+   32  sudo synaptic
+   33  sudo reboot
+   34  sudo apt-get install zerofree
+   35  sudo reboot
+   36  pwd
+   37  top
+   38  q
+   39  cd Desktop
+   40  ls
+   41  -F
+   42  Desktop
+   43  ls
+   44  ls/
+   45  ls /
+   46  ls /boot
+   47  ls /dev/net
+   48  ls /
+   49  ls /mnt
+   50  ls /media
+   51  ls /media/dev
+   52  ls /home
+   53  pdw
+   54  ls
+   55  ls -a
+   56  ls -al
+   57  ls -a .
+   58  ls codebrainers
+   59  ls .
+   60  ls ..
+   61  cd ..
+   62  pwd
+   63  ls -a
+   64  ls .vscode
+   65  ls .vscode/extensions
+   66  ls -a
+   67  cd ..
+   68  ls -a
+   69  cd ..
+   70  pwd
+   71  ls -a
+   72  ls -a..
+   73  cd
+   74  pwd
+   75  cd -
+   76  pwd
+   77  cd -
+   78  ls
+   79  cd media/
+   80  ls
+   81  cd dev/
+   82  lcd /
+   83  cd /
+   84  ls
+   85  cd home/
+   86  ls
+   87  cd dev/
+   88  ls
+   89  cd Downloads/
+   90  cd -
+   91  cd
+   92  ls
+   93  cd Desktop
+   94  cd codebrainers/
+   95  ls
+   96  mkdir linux
+   97  ls
+   98  cd linux/
+   99  mkdir dod
+  100  ls
+  101  cd ..
+  102  cd linux
+  103  mkdir drugi
+  104  mkdir /home/dev/Desktop/codebrainers/linux/czwarty
+  105  ls
+  106  mkdir Czwarty
+  107  ls
+  108  rmdir czwarty
+  109  ls
+  110  cd ..
+  111  rmdir Linux
+  112  cd linux/
+  113  cd ..
+  114  cd .
+  115  pwd
+  116  ls
+  117  pwd
+  118  nano pierwszy.sh
+  119  /home/dev/Desktop/codebrainers
+  120  pwd
+  121  bash
+  122  mv pierwszy.sh 10
+  123  ls
+  124  cd 10
+  125  ls
+  126  bash pierwszy.sh
+  127  ls
+  128  mv pierwszy.sh 2
+  129  cd 2
+  130  ls
+  131  mv pierwszy.sh ..
+  132  ls
+  133  cd ..
+  134  ls
+  135  mv pierwszy.sh ../2
+  136  ls
+  137  cd ..
+  138  ls
+  139  cd 2
+  140  ls
+  141  nano 
+  142  ls
+  143  ls  -al
+  144  less q
+  145  bash moj\ pierwszy\ script 
+  146  ls
+  147  ls -l
+  148  nano moj\ pierwszy\ script 
+  149  mv moj\ pierwszy\ script ..
+  150  mv pierwszy.sh ..
+  151  cd ..
+  152  ls
+  153  nano
+  154  nano moj\ pierwszy\ script 
+  155  ls
+  156  rm moj\ pierwszy\ script
+  157  ls
+  158  mv *.sh Olga/
+  159  ls
+  160  mv * linux
+  161  ls
+  162  mv linux/index.html .
+  163  ls
+  164  cd .
+  165  cd ..
+  166  mkdir texty
+  167  ls
+  168  rmdir texty
+  169  ls
+  170  cd linux
+  171  ls
+  172  cd codebrainers/
+  173  cd linux/
+  174  mkdir texty
+  175  cd texty/
+  176  wget https://tinyurl.com/codebrainers-text
+  177  nano codebrainers-text 
+  178  less codebrainers-text 
+  179  mv codebrainers-text william.sheakespeare
+  180  ls
+  181  less william.sheakespeare 
+  182  grep Hamlet william.sheakespeare
+  183  grep -c Hamlet william.sheakespeare 
+  184  ls
+  185  nano wow
+  186  bash wow
+  187  ls
+  188  bash wow
+  189  mv wow wow.sh
+  190  ls
+  191  bash wow.sh 
+  192  mv william.sheakespeare william.sheakspeare 
+  193  ls
+  194  bash wow.sh
+  195  nano wow.sh 
+  196  bash wow.sh 
+  197  nano wow.sh 
+  198  bash wow.sh 
+  199  nano wow.sh 
+  200  ls -l
+  201  chmod u=x dramatis.personae.sh
+  202  chmod u+x dramatics.personae.sh
+  203  chmod u+x wow.ch
+  204  chmod u+x wow.sh
+  205  ls -l
+  206  /home/dev/Desktop/codebrainers/linux/texty/wow.sh 
+  207  ./wow.sh 
+  208  echo $PATH
+  209  export PATH=$PDW:$PATH
+  210  dr
+  211  nano wow.sh 
+  212  cd ../..
+  213  cd ..
+  214  ls
+  215* 
+  216  mkdir python
+  217  cd python/
+  218  python
+  219  ipython
+  220  ls
+  221  rm listy.pv
+  222  ls
+  223  chmod +x listy.py 
+  224  ./listy.py 
+  225  ls
+  226  ./listy.py 
+  227  ls
+  228  cd wspolne2.py 
+  229  ls
+  230  chmod+x wspolne2.py 
+  231  chmod 
+  232  chmod +x wspolne2.py 
+  233  ./wspolne2.py 
+  234  history > day.1.saturday.12.08.komendy.basha.txt
